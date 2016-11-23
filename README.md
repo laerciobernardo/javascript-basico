@@ -26,7 +26,7 @@ Muito bem, para escrever códigos em javascript você vai precisar de algumas in
 Arquivos *.html* são arquivos que contém a estrutura de páginas web, são arquivos que utilizam *marcadores*, são tags que são utilizadas para delimitar a estrutura do conteúdo de páginas web. Não vamos entrar profundamente nesse assunto, mas quando a estrutura básica de um arquivo html é esse:  
 
 ```html
- <!html>
+ <!DOCTYPE html>
   <header>
     <title> Este é um site básico feito em HTML
   </header>
