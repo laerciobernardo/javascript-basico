@@ -34,6 +34,7 @@ Arquivos *.html* são arquivos que contém a estrutura de páginas web, são arq
 
   </body>
  </html>
+ ```
 
 Então para adicionar um código Javascript nesse arquivo existe uma *TAG* específica para esse fim que é a tag **<script>**, adicionando essa tag em nossa estrutura ela ficaria assim  
 
