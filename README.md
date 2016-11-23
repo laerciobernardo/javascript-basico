@@ -17,3 +17,7 @@ Segue a lista, e de antemão ela pode sofrer alterações sem aviso prévio já 
 - Conceitos de Orientação a Objetos
 - Trabalhando com Datas
 - Expressões Regulares
+
+#Vamos lá !
+
+## Variáveis
