@@ -34,3 +34,20 @@ Arquivos *.html* são arquivos que contém a estrutura de páginas web, são arq
 
   </body>
  </html>
+
+Então para adicionar um código Javascript nesse arquivo existe uma *TAG* específica para esse fim que é a tag **<script>**, adicionando essa tag em nossa estrutura ela ficaria assim  
+
+```html
+<!DOCTYPE html>
+<header>
+  <title> Este é um site básico feito em HTML
+  <script type="text/javascript">
+    aqui será colocado nosso código javascript
+  </script
+</header>
+<body>
+
+</body>
+</html>
+
+Também podemos escrever um código em um arquivo separado como dissemos anteriormente e vinculá-lo em nosso arquivo HTML, colocando um atributo src="endereco de onde está seu arquivo javascript", isso faz com que o arquivo seja carregado juntamente com a página, executando assim seu código, isso é muito recomendado para facilitar a manutenção dos códigos de seu site.
